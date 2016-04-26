@@ -1,0 +1,26 @@
+{
+	"name": "rmcgirr83/removeextension",
+	"type": "phpbb-extension",
+	"description": "Removes file type extension from attachments as displayed in a topic",
+	"version": "1.0.0",
+	"time": "2016-4-26",
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Rich McGirr",
+			"role": "Lead Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"require-dev": {
+		"phpbb/epv": "dev-master"
+	},
+	"extra": {
+		"display-name": "Remove Attachment Extension",
+		"soft-require": {
+			"phpbb/phpbb": ">=3.0.1-RC5"
+        }
+	}
+}

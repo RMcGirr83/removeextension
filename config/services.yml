@@ -1,0 +1,5 @@
+services:
+    rmcgirr83.removeextension.listener:
+        class: rmcgirr83\removeextension\event\listener
+        tags:
+            - { name: event.listener }
