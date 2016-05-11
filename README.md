@@ -5,7 +5,7 @@ phpBB 3.1 Revmoe Extension
 
 Removes file type extension from attachments as displayed in a topic.
 
-[![Build Status](https://travis-ci.org/RMcGirr83/removeextension.svg?branch=master)](https://travis-ci.org/RMcGirr83/removeextension)
+[![Build Status](https://travis-ci.org/rmcgirr83/removeextension.svg?branch=master)](https://travis-ci.org/rmcgirr83/removeextension)
 
 ## Installation
 
@@ -14,7 +14,7 @@ Clone (or download and move) the repository into the folder ext/rmcgirr83/remove
 
 ```
 cd phpBB3
-git clone https://github.com/RMcGirr83/removeextension.git ext/rmcgirr83/removeextension/
+git clone https://github.com/rmcgirr83/removeextension.git ext/rmcgirr83/removeextension/
 ```
 
 ### 2. activate
