@@ -1,7 +1,7 @@
-Revmoe Extension
+Remove Extension
 ===============
 
-phpBB 3.1 Revmoe Extension
+phpBB 3.1 Remove Extension
 
 Removes file type extension from attachments as displayed in a topic.
 
