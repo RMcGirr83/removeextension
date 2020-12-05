@@ -5,8 +5,6 @@ phpBB 3.1 Remove Extension
 
 Removes file type extension from attachments as displayed in a topic.
 
-[![Build Status](https://travis-ci.org/rmcgirr83/removeextension.svg?branch=master)](https://travis-ci.org/rmcgirr83/removeextension)
-
 ## Installation
 
 ### 1. clone
